@@ -140,9 +140,10 @@ i:hover{
 
 header .container .box{
     display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 80px; 
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: top;
+    gap: 80px; 
     font-size: 36px;
     overflow-y: auto;
 }
