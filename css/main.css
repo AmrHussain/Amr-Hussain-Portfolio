@@ -137,16 +137,16 @@ i:hover{
     color: #e01a29;
     transition: .3s;
 }
+
 header .container .box{
     display: flex;
-    flex-flow: row wrap;
-    align-items: top;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 80px; /* المسافة بين الديفين */
+  flex-wrap: wrap; /* مهم للشاشات الصغيرة */
     font-size: 36px;
 }
 
-header .container .box div:first-child{
-    margin-right: 60px;
-}
 
 
 
