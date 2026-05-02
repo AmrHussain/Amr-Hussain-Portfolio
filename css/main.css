@@ -142,9 +142,8 @@ header .container .box{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: top;
-    gap: 80px; 
-    font-size: 36px;
+    align-items: top; 
+    font-size: 26px;
 }
 
 
