@@ -125,6 +125,7 @@ header div h3 {
 header div ul{
     margin-left: 40px;
     margin-top: 10px;
+    white-space: normal;
 }
 header div ul li a:hover{
     color: #e01a29;
