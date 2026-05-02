@@ -145,7 +145,6 @@ header .container .box{
     align-items: top;
     gap: 80px; 
     font-size: 36px;
-    overflow-y: auto;
 }
 
 
