@@ -140,7 +140,7 @@ i:hover{
 
 header .container .box{
     display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   gap: 80px; 
     font-size: 36px;
